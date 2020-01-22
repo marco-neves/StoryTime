@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StorieTime</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="app_storytime_text_label">App: StoryTime</string>
+    <string name="sr_android_developer_text_label">Sr. Android Developer</string>
+    <string name="marco_neves_text_label">Marco Neves</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stories_title">
+        <item>"Something Old,Something Blue"</item>
+        <item>"Lessons from Great-Great-Great Grandpa"</item>
+        <item>"Grumpy old Mr. Bainyard."</item>
+        <item>"Go Go Gobi"</item>
+        <item>"NIPPON"</item>
+        <item>"Traffic"</item>
+        <item>"Saint Eldridge Islands"</item>
+        <item>"Loss of Loved One"</item>
+        <item>"King of the jungle"</item>
+    </string-array>
+</resources>
